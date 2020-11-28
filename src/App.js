@@ -85,7 +85,7 @@ function App(){
 
   return(
       <div>
-        <GlobalNav amount = {amount}></GlobalNav>
+        <GlobalNav beerAmounts = {amount}></GlobalNav>
         <div class="container-lg m-auto p-3">
           <div class="row">
             <div class="col-md">
